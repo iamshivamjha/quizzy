@@ -1,7 +1,7 @@
 # quizzy
 
 A new Flutter project of Quiz Application.
-I ahve used firebase to fetch data from there.
+I have used firebase to fetch data from there.
 
 ## Getting Started
 
